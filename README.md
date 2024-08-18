@@ -77,10 +77,11 @@
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](http://www.linkedin.com/in/philimona-z-b2211429a)) 
-[![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork)]([https://www.upwork.com/freelancers/~yourprofileid](https://www.upwork.com/freelancers/~01e1ba5726c2a460de?mp_source=share))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/philimona-z-b2211429a) 
+[![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01e1ba5726c2a460de?mp_source=share)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/FilmonZinabu)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/philimona216?igsh=MWx0bnVvZXlwbzBnMQ==)
+
 
 
 
