@@ -1,13 +1,17 @@
-![Header](https://www.canva.com/design/DAGFJeDa4yw/ZbOwllZarpp8dCk68KECZQ/view?utm_content=DAGFJeDa4yw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-### 🌗 Light/Dark Mode
-[![Light](https://github-readme-stats.vercel.app/api?username=Filmon12345&theme=light)](https://github.com/Filmon12345/github-readme-stats#gh-light-mode-only)
-[![Dark](https://github-readme-stats.vercel.app/api?username=Filmon12345&theme=dark)](https://github.com/Filmon12345/github-readme-stats#gh-dark-mode-only)
-![Confetti Welcome](https://media.giphy.com/media/3o6Zt6cEhlkdfzA2IY/giphy.gif)
+![Header](https://private-user-images.githubusercontent.com/105017499/358873909-5faf04f4-e132-4cc5-b9f9-a2819d63f153.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM5Mzc4MzIsIm5iZiI6MTcyMzkzNzUzMiwicGF0aCI6Ii8xMDUwMTc0OTkvMzU4ODczOTA5LTVmYWYwNGY0LWUxMzItNGNjNS1iOWY5LWEyODE5ZDYzZjE1My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxN1QyMzMyMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzBiZjBhYWVmZGQ5Y2E4ODhkNjUwM2Y0MTAyY2EzZDMzN2FjODcyODY3NDVmZmVlMjZhYjY1YTQ2M2QxYjY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.q3RbtblNcPmWaO8TuFxDoamydIXJczFKvW0pxX8pJFQ)
 
 # Greetings, I'm Philmona 👋
 
-**Electrical and Computer Engineer** | **Web Developer**  
-🎓 **Recent Graduate** from [Arbaminch University](https://www.arbaminch.edu.et) with a degree in Electrical and Computer Engineering, specializing in Computer Engineering. I've built a solid foundation in both hardware and software, and I’m passionate about web development.
+<h2 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/graduate.gif?1577305505" width="40" style="vertical-align: middle;"/>
+  <strong>Electrical and Computer Engineer</strong> | <strong>Web Developer</strong>
+</h2>
+
+<p align="center">
+  🎓 <strong>Recent Graduate</strong> from <a href="https://www.arbaminch.edu.et" target="_blank">Arbaminch University</a> with a degree in <strong>Electrical and Computer Engineering</strong>, specializing in <strong>Computer Engineering</strong>. I've built a solid foundation in both hardware and software, and I’m passionate about web development.
+</p>
+
+
 
 🌟 **Current Focus**: Expanding my expertise in **MERN Stack** development to build sophisticated and high-performing web applications.
 
@@ -67,12 +71,6 @@
 ![Proteus](https://img.shields.io/badge/Proteus-FF6600?style=for-the-badge&logo=proteus&logoColor=white)
 ![Mutism](https://img.shields.io/badge/Mutism-000000?style=for-the-badge&logo=mutism&logoColor=white)
 
-### 🌄 GitHub Skyline
-[Check out my 3D contribution map](https://skyline.github.com/Filmon12345/2023)
-
-### 🚀 CI/CD Status
-![Build Status](https://github.com/Filmon12345/your-repo/workflows/CI/badge.svg)
-
 ### Overall GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filmon12345&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
 
@@ -82,26 +80,18 @@
 ### Contributions Calendar
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Filmon12345&theme=radical)
 
-### Wakatime Stats
-![Wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg) 
-
-### Most Recent Repository
-![Recent Repo](https://github-readme-stats.vercel.app/api/pin/?username=Filmon12345&repo=your-most-recent-repo&theme=radical)
-
-### 📌 Pinned Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Filmon12345&repo=your-repo)](https://github.com/Filmon12345/Mini-Inventory-Managment-System)
-
 
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Filmon12345&theme=darkhub)
-![Visitor Count](https://komarev.com/ghpvc/?username=Filmon12345&color=brightgreen)
-### 💖 Support
-- [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
-- [Sponsor](https://github.com/sponsors/yourusername)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Filmon12345&color=brightgreen)
 
 🎯 Explore my repositories to see the projects I've worked on. Feel free to use, contribute, or reach out if you have any questions!
 
+### Most Recent Repository
+![Recent Repo](https://github-readme-stats.vercel.app/api/pin/?username=Filmon12345&repo=FZportfolio&theme=radical)
 
 
+### 📌 Pinned Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Filmon12345&repo=Mini-Inventory-Managment-System)](https://github.com/Filmon12345/Mini-Inventory-Managment-System)
