@@ -1,5 +1,5 @@
 <picture>
-  <img src="https://private-user-images.githubusercontent.com/105017499/358873909-5faf04f4-e132-4cc5-b9f9-a2819d63f153.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM5Mzc4MzIsIm5iZiI6MTcyMzkzNzUzMiwicGF0aCI6Ii8xMDUwMTc0OTkvMzU4ODczOTA5LTVmYWYwNGY0LWUxMzItNGNjNS1iOWY5LWEyODE5ZDYzZjE1My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxN1QyMzMyMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzBiZjBhYWVmZGQ5Y2E4ODhkNjUwM2Y0MTAyY2EzZDMzN2FjODcyODY3NDVmZmVlMjZhYjY1YTQ2M2QxYjY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.q3RbtblNcPmWaO8TuFxDoamydIXJczFKvW0pxX8pJFQ" alt="Header" style="max-width: 100%; height: auto;">
+  <img align="center" width="100%" height="auto" src="https://private-user-images.githubusercontent.com/105017499/358873909-5faf04f4-e132-4cc5-b9f9-a2819d63f153.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM5Mzc4MzIsIm5iZiI6MTcyMzkzNzUzMiwicGF0aCI6Ii8xMDUwMTc0OTkvMzU4ODczOTA5LTVmYWYwNGY0LWUxMzItNGNjNS1iOWY5LWEyODE5ZDYzZjE1My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxN1QyMzMyMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzBiZjBhYWVmZGQ5Y2E4ODhkNjUwM2Y0MTAyY2EzZDMzN2FjODcyODY3NDVmZmVlMjZhYjY1YTQ2M2QxYjY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.q3RbtblNcPmWaO8TuFxDoamydIXJczFKvW0pxX8pJFQ" alt="Header">
 </picture>
 
 
@@ -82,7 +82,7 @@
 ![Mutism](https://img.shields.io/badge/Mutism-000000?style=for-the-badge&logo=mutism&logoColor=white)
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](http://www.linkedin.com/in/philimona-z-b2211429a)) 
 [![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork)]([https://www.upwork.com/freelancers/~yourprofileid](https://www.upwork.com/freelancers/~01e1ba5726c2a460de?mp_source=share))
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/FilmonZinabu)
@@ -92,7 +92,8 @@
 
 
 ### Overall GitHub Stats
-<picture> <img align="right" width="40%"  alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></picture>
+<picture> <img align="right" width="50%"   alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></picture>
+<picture> <img align="right" width="50%"  alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></picture>
 <p >
   <img width="45%" height="30%" src="https://github-readme-stats.vercel.app/api?username=Filmon12345&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical" alt="Filmon's GitHub stats">
 </p>
@@ -108,17 +109,17 @@
 </p>
 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <p align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=Filmon12345&theme=darkhub" alt="GitHub Trophies">
 </p>
 
-## 📈 Visitor Count
+### 📈 Visitor Count
 <p >
   <img src="https://komarev.com/ghpvc/?username=Filmon12345&color=brightgreen" alt="Visitor Count">
 </p>
 
-<picture> <img align="right" width="50%" height="auto" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" ></picture>
+<picture> <img align="right" width="40%"  src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" ></picture>
 
 ### Most Recent Repository
 <p >
