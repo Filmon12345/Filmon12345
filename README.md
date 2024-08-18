@@ -90,8 +90,8 @@
 🎯 Explore my repositories to see the projects I've worked on. Feel free to use, contribute, or reach out if you have any questions!
 
 ### Most Recent Repository
-![Recent Repo](https://github-readme-stats.vercel.app/api/pin/?username=Filmon12345&repo=FZportfolio&theme=radical)
-
+[![Recent Repo](https://github-readme-stats.vercel.app/api/pin/?username=Filmon12345&repo=FZportfolio&theme=radical&hide_description=false)](https://github.com/Filmon12345/FZportfolio)
 
 ### 📌 Pinned Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Filmon12345&repo=Mini-Inventory-Managment-System)](https://github.com/Filmon12345/Mini-Inventory-Managment-System)
+[![Mini Inventory Management System](https://github-readme-stats.vercel.app/api/pin/?username=Filmon12345&repo=Mini-Inventory-Managment-System&theme=radical&hide_description=false)](https://github.com/Filmon12345/Mini-Inventory-Managment-System)
+
