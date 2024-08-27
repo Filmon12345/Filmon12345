@@ -1,5 +1,5 @@
 
-  <img align="center" width="100%" height="auto" src="https://private-user-images.githubusercontent.com/105017499/358873909-5faf04f4-e132-4cc5-b9f9-a2819d63f153.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM5Mzc4MzIsIm5iZiI6MTcyMzkzNzUzMiwicGF0aCI6Ii8xMDUwMTc0OTkvMzU4ODczOTA5LTVmYWYwNGY0LWUxMzItNGNjNS1iOWY5LWEyODE5ZDYzZjE1My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxN1QyMzMyMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzBiZjBhYWVmZGQ5Y2E4ODhkNjUwM2Y0MTAyY2EzZDMzN2FjODcyODY3NDVmZmVlMjZhYjY1YTQ2M2QxYjY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.q3RbtblNcPmWaO8TuFxDoamydIXJczFKvW0pxX8pJFQ" alt="Header">
+  <img align="center" width="100%" height="auto" src="https://github.com/user-attachments/assets/4bff6fa5-541a-4787-949f-236d71be264c" alt="Header">
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" align="right" width="45%" ></picture>
 
  
